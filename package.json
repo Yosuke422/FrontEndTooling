@@ -1,0 +1,27 @@
+{
+  "name": "frontendtooling",
+  "version": "1.0.0",
+  "description": "BoilerPlate of Front End Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yosuke422/FrontEndTooling.git"
+  },
+  "author": "Youssef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yosuke422/FrontEndTooling/issues"
+  },
+  "homepage": "https://github.com/Yosuke422/FrontEndTooling#readme",
+  "dependencies": {
+    "vite": "^4.4.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "prettier": "3.0.3"
+  }
+}
